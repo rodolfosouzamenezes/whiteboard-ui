@@ -8,11 +8,11 @@ import { Square } from './components/nodes/Square';
 
 const NODE_TYPES = {
   square: Square,
-}
+};
 
 const EDGE_TYPES = {
   default: DefaultEdge,
-}
+};
 
 const INITIAL_NODES = [
   {
